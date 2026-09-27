@@ -40,8 +40,8 @@ While building this project, I practiced:
 
 ## Screenshot
 
-Screenshot coming soon.
+![To-Do List Screenshot](todo-list-screenshot.png)
 
 ## Live Demo
 
-Live demo coming soon.
+[View the Live To-Do List](https://sivanathilak.github.io/todo-list/)
